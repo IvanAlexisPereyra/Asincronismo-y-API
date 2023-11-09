@@ -11,7 +11,7 @@
     justify-content: center;
     padding: 25px;
     margin-bottom: 40px;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 #hero{
@@ -62,7 +62,7 @@
 }
 
 .error {
-    font-size: 18px;
+    font-size: 20px;
     color: red;
 }
 
